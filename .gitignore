@@ -1,0 +1,8 @@
+bin/
+Migrations/
+obj/
+Properties/
+packages/
+*.xcs
+*.xsd
+*.xss
